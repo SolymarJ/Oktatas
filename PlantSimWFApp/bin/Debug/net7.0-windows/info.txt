@@ -1,0 +1,72 @@
+
+Products per station:
+wp1: 104
+wp2: 104
+wp3: 103
+wp4: 102
+wp5: 101
+elosztó1: 100
+wp7: 24
+wp6: 24
+wp8: 24
+wp9: 24
+elosztó2: 95
+wp10: 94
+fordító1: 93
+wp11/1: 92
+wp11/2: 91
+fordító2: 90
+wp12/1: 89
+wp12/2: 89
+wp13/1: 88
+wp13/2: 87
+wp14: 87
+wp15/1: 86
+wp15/2: 85
+elosztó3: 85
+wp16: 21
+wp17: 21
+wp18: 20
+wp19: 20
+elosztó4: 81
+wp21: 80
+fordító3: 79
+wp22: 78
+wp23: 77
+fordító4: 76
+------
+Total stuck time per station:
+wp1: 8,00 seconds
+wp2: 21,70 seconds
+wp3: 30,60 seconds
+wp4: 65,60 seconds
+wp5: 72,70 seconds
+elosztó1: 125,90 seconds
+wp7: 8,90 seconds
+wp6: 10,60 seconds
+wp8: 9,60 seconds
+wp9: 9,50 seconds
+elosztó2: 35,10 seconds
+wp10: 36,80 seconds
+fordító1: 0,00 seconds
+wp11/1: 0,30 seconds
+wp11/2: 26,50 seconds
+fordító2: 0,00 seconds
+wp12/1: 0,00 seconds
+wp12/2: 0,00 seconds
+wp13/1: 0,00 seconds
+wp13/2: 0,00 seconds
+wp14: 2,40 seconds
+wp15/1: 0,00 seconds
+wp15/2: 0,00 seconds
+elosztó3: 0,00 seconds
+wp16: 0,00 seconds
+wp17: 0,00 seconds
+wp18: 0,00 seconds
+wp19: 0,00 seconds
+elosztó4: 8,30 seconds
+wp21: 23,20 seconds
+fordító3: 0,00 seconds
+wp22: 4,50 seconds
+wp23: 40,10 seconds
+fordító4: 0,00 seconds
